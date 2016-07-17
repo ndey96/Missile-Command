@@ -2,9 +2,9 @@
 
 This project is a one dimensional adaption of the classic arcade game "Missile Command"
 
-The original game: https://www.youtube.com/watch?v=8eC_6QzvLrE
+### The original game: https://www.youtube.com/watch?v=8eC_6QzvLrE
 
-A demo of this project: https://youtu.be/K2Q93NSWim4
+### A demo of this project: https://youtu.be/K2Q93NSWim4
 
 ![img_5223](https://cloud.githubusercontent.com/assets/10405248/11170485/e72a53a2-8ba3-11e5-8f9e-18459ed40207.jpg)
 
