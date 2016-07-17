@@ -28,3 +28,9 @@ A demo of this project: https://youtu.be/K2Q93NSWim4
 - The program iterates through the columns fast enough that it seems constant
 
 ###The Buttons:
+
+- Pressing a button will trigger an interrupt
+- All buttons are hooked up to the same analog pin
+- Each button has a different resistor
+- Using the voltage at the analog pin, the button pressed can be determined
+- All buttons are connected to an OR gate to ensure that only one button can be pressed at a time
