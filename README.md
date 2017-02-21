@@ -1,6 +1,6 @@
 # Missile-Command
 
-This project is a one dimensional adaption of the classic arcade game "Missile Command"
+This project is a one dimensional adaptation of the classic arcade game "Missile Command"
 
 ### The original game: https://www.youtube.com/watch?v=8eC_6QzvLrE
 
